@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "887013518807",
+    "firebase_url": "https://ferdi-1202152160-modul6.firebaseio.com",
+    "project_id": "ferdi-1202152160-modul6",
+    "storage_bucket": "ferdi-1202152160-modul6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:887013518807:android:fa6441ec2e70196a",
+        "android_client_info": {
+          "package_name": "com.example.ferdi.ferdi_1202152160_modul6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "887013518807-bttstpsf6gvfve5ddudtjgvk7tre3lcv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsyVFdhybo1kSiBMiCWLUbjbNl_46BBao"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
